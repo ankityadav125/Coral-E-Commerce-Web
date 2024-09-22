@@ -1,0 +1,132 @@
+[
+    {
+        "id":1,
+       "title":"Adicolor Classics Joggers",
+       "category": "Dress",
+       "price": 99,
+        "image":"/images/products/image1.png",
+        "status": "Best Selers"
+    },
+    {
+        "id":2,
+       "title":"Nike Sportswear Futura Luxe",
+       "category": "Bag",
+       "price": 149,
+       "image":"/images/products/image2.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":3,
+       "title":"Geometric print Scarf",
+       "category": "Dress",
+       "price": 199.00,
+       "image":"/images/products/image3.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":4,
+       "title":"Yellow Reserved Hoodie",
+       "category": "Hoodies",
+       "price": 999.00,
+       "image":"/images/products/image4.png",
+       "status": "New Arriaval"
+    },
+    {
+        "id":5,
+       "title":"Basic Dress Green",
+       "category": "Dress",
+       "price": 549.00,
+       "image":"/images/products/image5.png",
+       "status": "New Arriaval"
+    },
+    {
+        "id":6,
+       "title":"Nike Air Zoom Pegasus",
+       "category": "Shoe",
+       "price": 199.00,
+       "image":"/images/products/image6.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":7,
+       "title":"Nike Repel Miler",
+       "category": "Hoodies",
+       "price": 129.50,
+       "image":"/images/products/image7.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":8,
+       "title":"Nike Sportswear Futura Luxe",
+       "category": "Glasses",
+       "price": 179.00,
+       "image":"/images/products/image8.png"
+    },
+
+    {
+        "id":11,
+       "title":"Adicolor Classics Joggers",
+       "category": "Dress",
+       "price": 199,
+        "image":"/images/products/image1.png",
+        "status": "Best Selers"
+    },
+    {
+        "id":12,
+       "title":"Nike Sportswear Futura Luxe",
+       "category": "Bag",
+       "price": 199,
+       "image":"/images/products/image2.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":13,
+       "title":"Geometric print Scarf",
+       "category": "Dress",
+       "price": 499.00,
+       "image":"/images/products/image3.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":14,
+       "title":"Yellow Reserved Hoodie",
+       "category": "Hoodies",
+       "price": 979.85,
+       "image":"/images/products/image4.png",
+       "status": "New Arriaval"
+    },
+    {
+        "id":15,
+       "title":"Basic Dress Green",
+       "category": "Dress",
+       "price": 1999.00,
+       "image":"/images/products/image5.png",
+       "status": "New Arriaval"
+    },
+    {
+        "id":16,
+       "title":"Nike Air Zoom Pegasus",
+       "category": "Shoe",
+       "price": 199.00,
+       "image":"/images/products/image6.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":17,
+       "title":"Nike Repel Miler",
+       "category": "Hoodies",
+       "price": 129.50,
+       "image":"/images/products/image7.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":18,
+       "title":"Nike Sportswear Futura Luxe",
+       "category": "Glasses",
+       "price": 169.00,
+       "image":"/images/products/image8.png"
+    }
+
+
+   
+]
